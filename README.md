@@ -182,7 +182,7 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/Eloquent-Laravel.git
+    git clone https://github.com/imtiazaly/Eloquent-Laravel.git
     cd Eloquent-Laravel
     ```
 2.  **Install Composer Dependencies**:
